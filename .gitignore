@@ -6,3 +6,6 @@
 # Build directory.
 build/
 out/
+
+vscode-cmake-build
+.idea
